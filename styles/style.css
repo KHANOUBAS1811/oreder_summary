@@ -21,7 +21,7 @@ body{
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 
 }
 .container_Content{
